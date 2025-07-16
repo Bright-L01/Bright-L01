@@ -1,16 +1,16 @@
 # Bright Liu
 
-AI/ML Engineer focused on production systems and emerging technologies.
+AI/ML Software Engineering Intern at AWS | Harvard BA/MA Mathematics, CS & Statistics
 
 ## Current Work
 
-I build AI tooling infrastructure and work on large-scale ML systems. Currently exploring Model Context Protocol servers and formal verification optimization.
+Building MCP-compatible analytics infrastructure at AWS that processes 300k+ metrics daily, leveraging Bedrock LLMs for real-time diagnostics. Reduced query latency by 40% for systems handling 10k+ requests/week.
 
-**Technical Focus:**
-- Production ML systems with performance requirements
-- AI tool integration and MCP ecosystem development  
-- Formal verification and evidence-based optimization
-- Large-scale data processing and inference optimization
+**Research & Technical Focus:**
+- Enterprise-scale ML infrastructure (AWS EC2/S3/Lambda)
+- Medical AI research with Vision Transformers (MGH/HMS)
+- Statistical modeling and stochastic processes
+- High-performance data processing and algorithmic optimization
 
 ## Notable Projects
 
@@ -24,27 +24,39 @@ Evidence-based Lean 4 simp optimization using real diagnostic data from Lean 4.8
 Text-to-music generation system with transformer architectures. Supports multi-instrument generation, real-time streaming, and ONNX optimization for production inference.
 
 **[drw-crypto-prediction](https://github.com/Bright-L01/drw-crypto-prediction)**  
-Industry-grade crypto market prediction system. Processes 600M+ rows with sub-30s inference requirements using LightGBM ensemble methods and high-performance computing with Polars/DuckDB.
+Quantitative trading system for cryptocurrency markets. Processes 600M+ rows with sub-30s inference using LightGBM ensemble methods, featuring advanced time series modeling and risk management algorithms optimized for high-frequency trading strategies.
 
 **[networkx-mcp-server](https://github.com/Bright-L01/networkx-mcp-server)**  
 First NetworkX integration for Model Context Protocol. Enables graph analysis directly in AI conversations with enterprise security features.
 
+## Achievements
+
+**Competition Wins:**
+- 1st Place - Harvard Advanced Data Science Kaggle Competition (2025)
+- 1st Place - MIT Quantum Hackathon (iQuHACK 2025)
+- 1st Place - MIT Mystery Puzzle Hunt (Top 1/400 teams, 2023)
+
+**Research Experience:**
+- Kempner Institute for Artificial Intelligence (current research on optimal resource allocation)
+- Deep Learning Researcher at Massachusetts General Hospital & Harvard Medical School
+- Astrophysics Data Scientist at Niels Bohr Institute (JWST data analysis)
+- Graduate TA for Evolutionary Dynamics & Game Theory at Harvard
+- Harvard AI Safety Team Technical Fellow (model interpretability and alignment)
+
 ## Technical Stack
 
-**Languages:** Python, Lean 4, Rust, Go, TypeScript  
-**ML/AI:** PyTorch, Transformers, LightGBM, XGBoost, MLflow  
-**Backend:** FastAPI, PostgreSQL, Redis, Docker, Kubernetes  
-**Infrastructure:** CI/CD, monitoring, security, scalability  
+**Languages:** Python (TensorFlow, PyTorch, NumPy, Pandas), C++, JavaScript (React), R  
+**Cloud & ML:** AWS (EC2, S3, Lambda), PyTorch, TensorFlow, PySpark, Hugging Face  
+**Infrastructure:** Docker, Kubernetes, CI/CD, distributed systems  
+**Mathematics:** Stochastic processes, convex optimization, game theory, statistical inference  
 
 ## Background
 
-Research engineer with experience in formal verification, large-scale ML infrastructure, and AI tooling. Strong focus on production systems that solve real problems with measurable performance improvements.
+Harvard undergraduate (Mathematics & Computer Science, GPA 3.81) pursuing concurrent Master's in Statistics. Research experience spanning medical AI, astrophysics, and game theory. Member of Harvard Undergraduate Quantitative Traders with interests in algorithmic finance and high-performance computing.
 
 ## Connect
 
+**Website:** [brightliu.com](https://brightliu.com)  
 **Email:** brightliu@college.harvard.edu  
-**LinkedIn:** [linkedin.com/in/bright-liu](https://linkedin.com/in/bright-liu)  
-
----
-
-*Available for AI/ML engineering, research engineering, and platform engineering roles.*
+**LinkedIn:** [linkedin.com/in/bright-liu-701174216](https://linkedin.com/in/bright-liu-701174216)  
+**GitHub:** [github.com/Bright-L01](https://github.com/Bright-L01)

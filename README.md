@@ -14,19 +14,19 @@ Building MCP-compatible analytics infrastructure at AWS that processes 300k+ met
 
 ## Notable Projects
 
-**[music21-mcp-server](https://github.com/Bright-L01/music21-mcp-server)**  
+**[music21-mcp-server](https://github.com/brightlikethelight/music21-mcp-server)**  
 Production-ready MCP server for music analysis. Features OAuth2 authentication, rate limiting, circuit breakers, and comprehensive monitoring. First production-ready music21 MCP integration.
 
-**[simpulse](https://github.com/Bright-L01/simpulse)**  
+**[simpulse](https://github.com/brightlikethelight/simpulse)**  
 Evidence-based Lean 4 simp optimization using real diagnostic data from Lean 4.8.0+. Includes performance validation with measurable improvements and confidence scoring for recommendations.
 
-**[music-gen-ai](https://github.com/Bright-L01/music-gen-ai)**  
+**[music-gen-ai](https://github.com/brightlikethelight/music-gen-ai)**  
 Text-to-music generation system with transformer architectures. Supports multi-instrument generation, real-time streaming, and ONNX optimization for production inference.
 
-**[drw-crypto-prediction](https://github.com/Bright-L01/drw-crypto-prediction)**  
+**[drw-crypto-prediction](https://github.com/brightlikethelight/drw-crypto-prediction)**  
 Quantitative trading system for cryptocurrency markets. Processes 600M+ rows with sub-30s inference using LightGBM ensemble methods, featuring advanced time series modeling and risk management algorithms optimized for high-frequency trading strategies.
 
-**[networkx-mcp-server](https://github.com/Bright-L01/networkx-mcp-server)**  
+**[networkx-mcp-server](https://github.com/brightlikethelight/networkx-mcp-server)**  
 First NetworkX integration for Model Context Protocol. Enables graph analysis directly in AI conversations with enterprise security features.
 
 ## Achievements
@@ -59,4 +59,4 @@ Harvard undergraduate (Mathematics & Computer Science, GPA 3.81) pursuing concur
 **Website:** [brightliu.com](https://brightliu.com)  
 **Email:** brightliu@college.harvard.edu  
 **LinkedIn:** [linkedin.com/in/bright-liu-701174216](https://linkedin.com/in/bright-liu-701174216)  
-**GitHub:** [github.com/Bright-L01](https://github.com/Bright-L01)
+**GitHub:** [github.com/brightlikethelight](https://github.com/brightlikethelight)
